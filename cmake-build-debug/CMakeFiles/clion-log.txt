@@ -1,0 +1,7 @@
+D:\cygwin64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/e/own/mysql3-annotated
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: mysql3_annotated
+
+
+-- Build files have been written to: /cygdrive/e/own/mysql3-annotated/cmake-build-debug

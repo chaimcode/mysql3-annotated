@@ -1,0 +1,139 @@
+# Microsoft Developer Studio Generated Dependency File, included by MySqlManager.mak
+
+.\ChildFrm.cpp : \
+	"..\include\mysql.h"\
+	"..\include\mysql_com.h"\
+	"..\include\mysql_version.h"\
+	".\ChildFrm.h"\
+	".\MySqlManager.h"\
+	".\StdAfx.h"\
+	"c:\tools\vc\vc98\include\basetsd.h"\
+	
+
+.\MainFrm.cpp : \
+	"..\include\mysql.h"\
+	"..\include\mysql_com.h"\
+	"..\include\mysql_version.h"\
+	".\MainFrm.h"\
+	".\MySqlManager.h"\
+	".\StdAfx.h"\
+	"c:\tools\vc\vc98\include\basetsd.h"\
+	
+
+.\MySqlManager.cpp : \
+	"..\include\mysql.h"\
+	"..\include\mysql_com.h"\
+	"..\include\mysql_version.h"\
+	".\ChildFrm.h"\
+	".\cresource.h"\
+	".\MainFrm.h"\
+	".\MySqlManager.h"\
+	".\MySqlManagerDoc.h"\
+	".\MySqlManagerView.h"\
+	".\StdAfx.h"\
+	"c:\tools\vc\vc98\include\basetsd.h"\
+	
+
+.\MySqlManagerDoc.cpp : \
+	"..\include\mysql.h"\
+	"..\include\mysql_com.h"\
+	"..\include\mysql_version.h"\
+	".\MySqlManager.h"\
+	".\MySqlManagerDoc.h"\
+	".\StdAfx.h"\
+	"c:\tools\vc\vc98\include\basetsd.h"\
+	
+
+.\MySqlManagerView.cpp : \
+	"..\include\config-win.h"\
+	"..\include\dbug.h"\
+	"..\include\global.h"\
+	"..\include\m_ctype.h"\
+	"..\include\my_pthread.h"\
+	"..\include\my_sys.h"\
+	"..\include\mysql.h"\
+	"..\include\mysql_com.h"\
+	"..\include\mysql_version.h"\
+	"..\include\raid.h"\
+	".\cresource.h"\
+	".\MainFrm.h"\
+	".\MySqlManager.h"\
+	".\MySqlManagerDoc.h"\
+	".\MySqlManagerView.h"\
+	".\RegisterServer.h"\
+	".\StdAfx.h"\
+	".\toolsql.h"\
+	".\ToolSqlQuery.h"\
+	".\ToolSqlResults.h"\
+	".\ToolSqlStatus.h"\
+	"c:\tools\vc\vc98\include\basetsd.h"\
+	
+
+.\RegisterServer.cpp : \
+	"..\include\mysql.h"\
+	"..\include\mysql_com.h"\
+	"..\include\mysql_version.h"\
+	".\MySqlManager.h"\
+	".\RegisterServer.h"\
+	".\StdAfx.h"\
+	"c:\tools\vc\vc98\include\basetsd.h"\
+	
+
+.\StdAfx.cpp : \
+	"..\include\mysql.h"\
+	"..\include\mysql_com.h"\
+	"..\include\mysql_version.h"\
+	".\StdAfx.h"\
+	"c:\tools\vc\vc98\include\basetsd.h"\
+	
+
+.\ToolSql.cpp : \
+	"..\include\config-win.h"\
+	"..\include\dbug.h"\
+	"..\include\global.h"\
+	"..\include\m_ctype.h"\
+	"..\include\my_pthread.h"\
+	"..\include\my_sys.h"\
+	"..\include\mysql.h"\
+	"..\include\mysql_com.h"\
+	"..\include\mysql_version.h"\
+	"..\include\raid.h"\
+	".\cresource.h"\
+	".\MySqlManager.h"\
+	".\StdAfx.h"\
+	".\toolsql.h"\
+	".\ToolSqlQuery.h"\
+	".\ToolSqlResults.h"\
+	".\ToolSqlStatus.h"\
+	"c:\tools\vc\vc98\include\basetsd.h"\
+	
+
+.\ToolSqlQuery.cpp : \
+	"..\include\mysql.h"\
+	"..\include\mysql_com.h"\
+	"..\include\mysql_version.h"\
+	".\MySqlManager.h"\
+	".\StdAfx.h"\
+	".\ToolSqlQuery.h"\
+	"c:\tools\vc\vc98\include\basetsd.h"\
+	
+
+.\ToolSqlResults.cpp : \
+	"..\include\mysql.h"\
+	"..\include\mysql_com.h"\
+	"..\include\mysql_version.h"\
+	".\MySqlManager.h"\
+	".\StdAfx.h"\
+	".\ToolSqlResults.h"\
+	"c:\tools\vc\vc98\include\basetsd.h"\
+	
+
+.\ToolSqlStatus.cpp : \
+	"..\include\mysql.h"\
+	"..\include\mysql_com.h"\
+	"..\include\mysql_version.h"\
+	".\MySqlManager.h"\
+	".\StdAfx.h"\
+	".\ToolSqlStatus.h"\
+	"c:\tools\vc\vc98\include\basetsd.h"\
+	
